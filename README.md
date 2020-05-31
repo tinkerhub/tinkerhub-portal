@@ -1,13 +1,14 @@
-# Project Name
+# TinkerHub Portal
 Long Description about project. This project do that. This project is awesome...
-## How it Works ?
-Explaining the working of project
+
 ## Libraries used
-Library Name - Version
+- [Django](https://www.djangoproject.com)
+- [Vue.js](http://vuejs.org)
 ## How to configure
 Instructions for setting up project
 ## How to Run
 Instructions for running
 ## How to Test 
 Instructions for testing  
-## Contributors
+## How to contribute
+
